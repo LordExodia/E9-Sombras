@@ -1,2 +1,4 @@
-# E7-Texturas-
+# E7-Texturas
 Ejercicio 7 - Texturas
+
+index.html
