@@ -89,7 +89,7 @@ function main() {
   // objects we'll be drawing.
   const buffers = initBuffers(gl);
 
-  const texture = loadTexture(gl, 'https://estaticos.elperiodico.com/resources/jpg/1/3/1554908865931.jpg');
+  const texture = loadTexture(gl, '../blanco.jpg');
 
   var then = 0;
 
